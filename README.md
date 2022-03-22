@@ -24,7 +24,7 @@ The key insights are as follows:
 
 *a. Checkout Times for Users*
 
-![a. Time](Resources/tab_1.png)
+![a. Time](Resources/Tab_1.png)
 
 The first insight is to understand the average trip duration at different hours in the day. In the image above it is clear that the most of the rides were below **10 minutes** in duration and the number of rides reduce drastically in the early morning hours of 1AM-2AM meaning those will be good time to carry out bike maintenance. Kate can interactively select different hours of the day to walk throught he usage patterns as desired. The usage pattern will determine how many bikes would be needed in Des Moines.
 
@@ -32,7 +32,7 @@ The first insight is to understand the average trip duration at different hours 
 
 *b. Checkout Times by Gender*
 
-![b. Time by Gender](Resources/tab_2.png)
+![b. Time by Gender](Resources/Tab_2.png)
 
 The second insight breaks up the earlier insight by gender category which tells us that men are more likely to avail of the services during late hours. Thus marketing and advertising for the new business can be targeted to the male demographics and also look at ways to attract more female customers.
 
@@ -40,20 +40,20 @@ The second insight breaks up the earlier insight by gender category which tells 
 
 *c. Trips by Weekday per Hour*
 
-![c. Trips by Weekday per Hour](Resources/tab_3.png)
+![c. Trips by Weekday per Hour](Resources/Tab_3.png)
 
 The third insight is a heatmap to detmine the relative number of trips by each hour of the day. From the graph, it is evident thet most of the trips occur during office commute hours during weekdays to get in and out of work. On weekends, it is likely used as a recreational or leisure ride as most of the commutes are mid-day. Thus it needs to be evaluated if work commute in bikes would make sense in a city like Des Moines which might have much more relaxed parking and space constraints.
 ### **d. Trips by Gender:**
 
 *d. Trips by Gender*
 
-![d. Trips by Gender](Resources/tab_4.png)
+![d. Trips by Gender](Resources/Tab_4.png)
 
 The fourth insight breaks up the earlier insight by gender category which tells us that men are more likely to avail of the services as compared to women. Thus marketing and advertising for the new business can be targeted to look at ways to attract more female customers.
 ### **e. User Trips by Gender by Weekday:**
 *e. User Trips by Gender by Weekday*
 
-![e. User Trips by Gender by Weekday](Resources/tab_5.png)
+![e. User Trips by Gender by Weekday](Resources/Tab_5.png)
 
 The fifth insight breaks up the number of trips by gender, weekday and user type. The user type is broken into long-term users **(Subscribers)** and impromptu customers **(Customers)**. The chart above tells us most of the use for the services are from loyal subscribers who use the bike services regularly through the week. The new business should look at ways to attract more new customers to try out the service to get them into the door.
 
@@ -61,14 +61,14 @@ The fifth insight breaks up the number of trips by gender, weekday and user type
 
 f. Trips by Gender & Age by Users*
 
-![f. Trips by Gender & Age by Users](Resources/tab_6.png)
+![f. Trips by Gender & Age by Users](Resources/Tab_6.png)
 
 The sixth insight breaks up the users by gender and age by looking at the birth year of the users. From the cart above it is apparent that younger demographics **(Birth year between 1980-1995)** are more likely to avail of the services and serve as the core of the customer base. This should serve as vital info for the marketing and advertising teams to be more targeted in the messaging and also would be an important due diligence for the team to ensure that Des Moines's demographics are consistent with the target audience.
 ### **g. Trips by Starttime & Age:**
 
 *g. Trips by Starttime & Age*
 
-![g. Trips by Starttime & Age](Resources/tab_7.png)
+![g. Trips by Starttime & Age](Resources/Tab_7.png)
 
 The seventh insight looks at multiple aspects of rides by gender, hour of day, type of subscriber and age of subscriber in a single view to help answer any specific question that the investor might have as the corresponding filters can be interactively chosen. From the graph, it is apparent that the primary customer base is the male demographics that are subscribers who are passionate about riding bikes and use if very frequently for work and leisure commute. 
 
