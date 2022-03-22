@@ -1,3 +1,8 @@
+#Ignoring .CSV files
+
+201908-citibike-revised.CSV
+201908-citibike-tripdata.CSV
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
